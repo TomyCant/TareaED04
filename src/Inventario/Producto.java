@@ -1,3 +1,5 @@
+package Inventario;
+
 public class Producto {
     public String n;
     public double p;
