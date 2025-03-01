@@ -30,7 +30,6 @@ public class Inventario {
         System.out.println("Inventario de productos:");
         inventario.mostrar();
 
-        p1.borrarDatos();
-        p2.borrarDatos();
+
     }
 }
