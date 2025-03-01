@@ -61,9 +61,4 @@ public class Producto {
         System.out.println("Producto: " + getNombre() + " | Precio: " + getPrecio() + " | Stock: " + getStock());
     }
 
-    public void borrarDatos() {
-        setNombre("");
-        setPrecio(0.0);
-        setStock(0);
-    }
 }
